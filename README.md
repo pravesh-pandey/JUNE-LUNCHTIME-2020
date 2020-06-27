@@ -1,5 +1,5 @@
 # JUNE-LUNCHTIME-2020
-i have only 4 solutine but I will update the fifth one soon.
+i have only 4 solution but I will update the fifth one soon.
 
 
 Q1. Chef and Demonetisation' '[solved]'    'CHFMOT18'    'https://www.codechef.com/LTIME85B/problems/CHFMOT18
@@ -15,4 +15,9 @@ Q4.Gold Mining'              '[solved]'     'GOLMINE'    'https://www.codechef.c
   
   
 Q5.Square Submatrices'     '[unsolved]'    'SQRSUBMA'   'https://www.codechef.com/LTIME85B/problems/SQRSUBMA
+
+
+
+
+#do add a star if you like it
 	
