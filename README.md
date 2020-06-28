@@ -14,7 +14,9 @@ Q3. Maximum AND'             '[solved]'     'MAXAND18'    'https://www.codechef.
 Q4.Gold Mining'              '[solved]'     'GOLMINE'    'https://www.codechef.com/LTIME85B/problems/GOLMINE
   
   
-Q5.Square Submatrices'     '[unsolved]'    'SQRSUBMA'   'https://www.codechef.com/LTIME85B/problems/SQRSUBMA
+Q5.Square Submatrices'     '[solved]'    'SQRSUBMA'   'https://www.codechef.com/LTIME85B/problems/SQRSUBMA  
+   
+   Q5 is of some-top summitions.
 
 
 
